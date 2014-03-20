@@ -1,1 +1,9 @@
- 
+solid firstattempt
+facet normal 0 0 0
+    outer loop
+        vertex 1 1 1
+        vertex 2 2 2
+        vertex 3 3 3
+    endloop
+endfacet
+endsolid
