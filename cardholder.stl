@@ -1,9 +1,16 @@
 solid firstattempt
 facet normal 0 0 0
     outer loop
-        vertex 1 1 1
-        vertex 2 2 2
-        vertex 3 3 3
+        vertex 1 0 0
+        vertex 1 0 1
+        vertex 1 1 0
     endloop
+endfacet
+facet normal 0 1 1
+    outer loop
+        vertex 1 0 1
+        vertex 1 1 1
+        vertex 1 1 0 
+    end loop
 endfacet
 endsolid
